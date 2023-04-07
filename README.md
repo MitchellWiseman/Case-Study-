@@ -27,9 +27,9 @@ If I were able to advise Coinbase and make changes to improve the company would 
 ## Resources
 
 * [The 11 Biggest FinTech Companies in America 2021](https://www.forbes.com/sites/elizahaverstock/2021/06/08/the-11-biggest-fintech-companies-in-america-2021/?sh=2072785b4f13)
-* [Coinbase] (https://www.coinbase.com/about)
-* [Forbes] (https://www.forbes.com/sites/sergeiklebnikov/2020/12/15/coinbase-is-giving-a-beginners-guide-to-all-things-crypto/?sh=6bca95ef5ae5)
-* [Investopedia] (https://www.investopedia.com/articles/investing/101615/brief-history-bitcoin-regulation-over-us.asp)
+* [Coinbase](https://www.coinbase.com/about)
+* [Forbes](https://www.forbes.com/sites/sergeiklebnikov/2020/12/15/coinbase-is-giving-a-beginners-guide-to-all-things-crypto/?sh=6bca95ef5ae5)
+* [Investopedia](https://www.investopedia.com/articles/investing/101615/brief-history-bitcoin-regulation-over-us.asp)
 
 
 
