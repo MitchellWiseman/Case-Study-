@@ -22,13 +22,14 @@ Coinbase has had a major impact on the world of cryptocurrency, as it gives peop
 
 ## Recommendation 
 
-If I were able to advise Coinbase and make changes to improve the company would first simplify the interface a bit more because for new users the outline can be overwhelming that would refrain new users. Second, expanding the amount of different currencies by doing that would make people's portfolios more diverse. This would be completed by adding more popular cryptocurrencies.  Third, I would enhance the security measures to reassure users and the safety of their assets. To enhance the security measure would make a program that would make hacking people's accounts impossible. Coinbase is an all round good company/platform for buying, trading, and selling crypto assets.
+If I were able to advise Coinbase and make changes to improve the company would first simplify the interface a bit more because for new users the outline can be overwhelming that would refrain new users. Second, expanding the amount of different currencies by doing that would make people's portfolios more diverse. This would be completed by adding more popular cryptocurrencies.  Third, I would enhance the security measures to reassure users and the safety of their assets. To enhance the security measure would make a program that would make hacking people's accounts impossible. Coinbase is an all round good company/platform for buying, trading, and selling crypto assets. With acceptional secuirty meassures so the average user can be secure while using the platform.
 
 ## Resources
 
-*Coinbase (2021). About Coinbase. [https://www.coinbase.com/about]
-*Kari, S. (2020). Coinbase is giving A beginner’s guide To all things crypto. Forbes. [https://www.forbes.com/sites/sergeiklebnikov/2020/12/15/coinbase-is-giving-a-beginners-guide-to-all-things-crypto/?sh=6bca95ef5ae5]
-*Investopedia (2020) History of Coinbase ([https://www.investopedia.com/articles/investing/101615/brief-history-bitcoin-regulation-over-us.asp]
+* [The 11 Biggest FinTech Companies in America 2021](https://www.forbes.com/sites/elizahaverstock/2021/06/08/the-11-biggest-fintech-companies-in-america-2021/?sh=2072785b4f13)
+* [Coinbase] (https://www.coinbase.com/about)
+* [Forbes] (https://www.forbes.com/sites/sergeiklebnikov/2020/12/15/coinbase-is-giving-a-beginners-guide-to-all-things-crypto/?sh=6bca95ef5ae5)
+* [Investopedia] (https://www.investopedia.com/articles/investing/101615/brief-history-bitcoin-regulation-over-us.asp)
 
 
 
